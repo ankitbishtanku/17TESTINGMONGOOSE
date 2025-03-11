@@ -1,3 +1,3 @@
 module.exports = {
-	 schema : require('./career')
+	schema : require('./career')
 }
